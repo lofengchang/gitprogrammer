@@ -9,6 +9,7 @@ int main()
     std::cout << "The second commit!\n";
     std::cout << "Should I commit!\n";
     std::cout << "The third commit!\n";
+    std::cout << "The forth commit!\n";
 
 }
 
