@@ -3,8 +3,14 @@
 
 #include <iostream>
 
+
 void echo() {
     std::cout << "I am here!\n";
+}
+void test()
+{
+    std::cout << "function test run!\n";
+
 }
 
 int main()
@@ -15,7 +21,11 @@ int main()
     std::cout << "The third commit!\n";
     std::cout << "Do I need to commit?";
     std::cout << "The forth commit!\n";
+
     echo();
+
+    test();
+
 
 }
 
