@@ -3,6 +3,11 @@
 
 #include <iostream>
 
+void test()
+{
+    std::cout << "function test run!\n";
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
@@ -11,6 +16,7 @@ int main()
     std::cout << "The third commit!\n";
     std::cout << "Do I need to commit?";
     std::cout << "The forth commit!\n";
+    test();
 
 }
 
