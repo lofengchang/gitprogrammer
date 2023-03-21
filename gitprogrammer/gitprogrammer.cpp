@@ -7,6 +7,8 @@
 void echo() {
     std::cout << "I am here!\n";
 }
+
+void backward();
 void test()
 {
     std::cout << "function test run!\n";
