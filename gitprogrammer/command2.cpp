@@ -8,3 +8,7 @@ void add()
 {
 	std::cout << "This is function add" << endl;
 }
+void sub()
+{
+	std::cout << "This is function sub" << endl;
+}
