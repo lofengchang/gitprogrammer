@@ -12,3 +12,9 @@ void sub()
 {
 	std::cout << "This is function sub" << endl;
 }
+void multiply()
+{
+	std::cout << "This is function multiply" << endl;
+}
+
+
