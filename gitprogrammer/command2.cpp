@@ -16,5 +16,9 @@ void multiply()
 {
 	std::cout << "This is function multiply" << endl;
 }
+void divid()
+{
+	std::cout << "This is function divid" << endl;
+}
 
 
