@@ -4,6 +4,7 @@
 #include <iostream>
 
 
+void forware();
 void echo() {
     std::cout << "I am here!\n";
 }
